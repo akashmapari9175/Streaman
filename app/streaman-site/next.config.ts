@@ -25,7 +25,7 @@ const config: NextConfig = {
     return [
       {
         source: "/docs/:path*",
-        destination: "https://my-monorepo-docusaurus.vercel.app/:path*",
+        destination: "https://streaman-docusarus.vercel.app/:path*",
       },
     ];
   },
