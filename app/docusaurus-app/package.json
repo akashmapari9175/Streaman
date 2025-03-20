@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "build": "docusaurus build && cpx \"build/**/*\" ../streaman-site/public/docs --clean",
+    "build": "docusaurus build",
     "start": "docusaurus start",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
